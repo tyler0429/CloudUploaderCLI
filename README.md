@@ -3,7 +3,7 @@ Capstone Project: CloudUploader CLI
 
 -Into to bash capstone project
 
--Simple bash script which connects a user to their aws account throught the aws cli
+-Simple bash script (uploadFiletoAWS.bash) which connects a user to their aws account throught the aws cli
 
 -User must have an aws account with an access key and the user must have access/permissions to the specified s3 storage
 
