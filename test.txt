@@ -1,0 +1,1 @@
+testing the copy file command to the s3 bucket
